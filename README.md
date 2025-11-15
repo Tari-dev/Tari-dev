@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm **Tariq**, a B.Tech student specializing in **Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Kottayam (IIIT-K)**.
+I'm **Tariq**, a B.Tech Computer Science student specializing in **Data Science and Artificial Intelligence** at the **Indian Institute of Information Technology, Kottayam (IIIT-K)**.
 
 ## About Me:
 - 🌱 Actively learning **Artificial Intelligence & Machine Learning**
